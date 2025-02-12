@@ -1,4 +1,4 @@
-# hello, I'm hayden 👋
+# hello, i'm hayden 👋
 i'm a low level coder, hardware addict, and digital designer
 
 <br>
