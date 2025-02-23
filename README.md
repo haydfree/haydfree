@@ -9,6 +9,8 @@ My work primarily involves simulators, reverse engineering, and breaking stuff j
 
 ## 🚀 Personal projects
 
+<href a=github.com/haydfree/circuitry>Circuitry</href> <p> is a digital circuit simulator for playing around with circuits and gates </p>
+
 <br>
 <br>
 <br>
