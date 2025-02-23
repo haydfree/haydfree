@@ -6,7 +6,7 @@ Interested in all things reversing, binex, systems, and embedded
 
 ## 🚀 Personal projects
 
-### <a href=github.com/haydfree/circuitry>Circuitry</a>
+### <a href=https://github.com/haydfree/circuitry>Circuitry</a>
 <p> digital circuit simulator for playing around with circuits and gates </p>
 
 
