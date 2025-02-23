@@ -1,19 +1,25 @@
 # Hello, I'm Hayden 👋
-I'm a low level coder, hardware addict, and digital designer
+I'm a low level programmer and hardware addict
 
-<br>
+Interested in all things reversing, binex, systems, and embedded
 
-My work primarily involves simulators, reverse engineering, and breaking stuff just to fix it
-
-<br>
 
 ## 🚀 Personal projects
 
-<href a=github.com/haydfree/circuitry>Circuitry</href> <p> is a digital circuit simulator for playing around with circuits and gates </p>
+### <a href=github.com/haydfree/circuitry>Circuitry</a>
+<p> digital circuit simulator for playing around with circuits and gates </p>
 
-<br>
-<br>
-<br>
+
+### <a href=github.com/haydfree/stat-arb>ML-Driven Financial Anomaly Detection Engine</a>
+<p> machine learning and statistical techniques to identify irregular patterns in financial data and generate real-time alerts </p>
+
+### <a href=github.com/haydfree/chess_engine>High-Performance Chess AI with Optimized Alpha-Beta Pruning</a>
+<p> uses optimized alpha–beta pruning for efficient deep game-tree search </p>
+
+### <a href=github.com/haydfree/memalloc>Secure Heap Memory Allocator with Encryption</a>
+<p> implements malloc, free, memcpy, and related functions from scratch </p>
+
+
 
 ## 🚀 Contributions
-
+<p> coming soon </p>
