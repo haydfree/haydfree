@@ -1,5 +1,5 @@
 # Hello, I'm Hayden 👋
-I'm a low level programmer and hardware addict
+I'm a systems programmer and hardware addict
 
 Interested in all things reversing, binex, systems, and embedded
 
