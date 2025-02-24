@@ -1,7 +1,7 @@
-# Hello, I'm Hayden 👋
-I'm a systems programmer and hardware addict
+# The name is Hayden 👋
+I like computers
 
-Interested in all things reversing, binex, systems, and embedded
+Systems, embedded, cyber, web, games, could go on and on
 
 
 ## 🚀 Personal projects
