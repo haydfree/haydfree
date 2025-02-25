@@ -1,7 +1,4 @@
-# The name is Hayden 👋
-I like computers
-
-Systems, embedded, cyber, web, games, could go on and on
+computers are cool bruh
 
 
 ## 🚀 Personal projects
@@ -21,5 +18,4 @@ Systems, embedded, cyber, web, games, could go on and on
 
 
 
-## 🚀 Contributions
-<p> coming soon </p>
+
