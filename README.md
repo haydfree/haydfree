@@ -9,10 +9,10 @@ computers are cool bruh
 
 
 ### <a href=https://github.com/haydfree/stat-arb>forex / crypto trading bot</a>
-<p> machine learning and statistical techniques to identify irregular patterns in financial data and generate real-time alerts </p>
+<p> machine learning and statistical techniques to identify irregular patterns in financial data </p>
 
 ### <a href=https://github.com/haydfree/chess_engine>chess bot</a>
-<p> uses optimized alpha–beta pruning for efficient deep game-tree search </p>
+<p> extremely optimized and totally 3000 elo-ish absolute maniac </p>
 
 ### <a href=https://github.com/haydfree/memalloc>encrypted mem allocator</a>
 <p> implements malloc, free, memcpy, and related functions from scratch </p>
