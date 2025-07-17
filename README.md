@@ -1,4 +1,9 @@
-computers are cool bruh
+computers are cool man
+
+linkedin:  https://linkedin.com/in/haydfree
+x:         https://x.com/haydfree
+instagram: https://instagram.com/haydfree
+blog:      https://blog.haydfree.com
 
 
 
