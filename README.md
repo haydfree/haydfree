@@ -1,3 +1,1 @@
-computers are cool man
-
-https://linktr.ee/haydfree
+VP of executive management of coding execution 
